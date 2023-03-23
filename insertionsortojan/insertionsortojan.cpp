@@ -15,7 +15,7 @@ void input() {
 		}
 		else
 		{
-			cout
+			cout << "\nArray yang anda masukan maksimal 20 Eleman.\n";
 		}
 	}
 
